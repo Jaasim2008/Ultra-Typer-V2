@@ -9,6 +9,7 @@ Simple GUI To Use
 ----------------------------
 
 Download Link : https://icedrive.net/s/xjYSbPRGxgCaDZCx4wxGujhzgF4W
+**WARNING : GOING OVER 200 TIMES MAY CAUSE INSTABILITY**
 
 --------------------------
 
